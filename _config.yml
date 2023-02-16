@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "미정"
   location         : ""
-  email            : "kmu1211"
+  #email            : "kmu1211"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
