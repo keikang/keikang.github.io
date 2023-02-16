@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "강민욱(keikang)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/공백.jfif"
   bio              : "미정"
   location         : ""
   #email            : "kmu1211"
